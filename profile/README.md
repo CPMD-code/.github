@@ -19,9 +19,9 @@ The CPMD program is © 1990-2022 by IBM Corp. and © 1994-2001 by Max Planck Ins
 
 ## Public Repositories
 
-- [CPMD] (https://github.com/CPMD-code/CPMD): main CPMD code (MIT License)
-- [Addons] (https://github.com/CPMD-code/Addons): Additional packages part of the CPMD distribution (MIT License)
-- [Tests] (https://github.com/CPMD-code/Tests): collection of input test files with production defaults (MIT License)
-- [Regtests] (https://github.com/CPMD-code/Regtests): regression tests for the quality control/assurance of CPMD (MIT License). Requires the download of the CPQA package.
-- [cpqa] (https://github.com/CPMD-code/cpqa): quality assurance code originally developed for CP2K and customized for CPMD (GPL v.3)
+- [CPMD](https://github.com/CPMD-code/CPMD): main CPMD code (MIT License)
+- [Addons](https://github.com/CPMD-code/Addons): Additional packages part of the CPMD distribution (MIT License)
+- [Tests](https://github.com/CPMD-code/Tests): collection of input test files with production defaults (MIT License)
+- [Regtests](https://github.com/CPMD-code/Regtests): regression tests for the quality control/assurance of CPMD (MIT License). Requires the download of the CPQA package.
+- [cpqa](https://github.com/CPMD-code/cpqa): quality assurance code originally developed for CP2K and customized for CPMD (GPL v.3)
 
